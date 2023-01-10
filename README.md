@@ -12,3 +12,5 @@ Using "optimized.zip" to simulate Ising model with CUDA.
 Using "Data.mat" and "Analysis_DF_withoutmale.m" to analyze the data of pistachio tree yield.
 
 Using "Raster_DF_Convolution.m" to calculate density fluctuation of raster data with the convolution method; Using ; using "Vector_DF_square_mark.m" to calculate density fluctuation of vector data with the throwing boxes method.
+
+Using "Statistics.zip" to calculate orderparameter, susceptibility, correlation length and spatial variance in MATLAB.
